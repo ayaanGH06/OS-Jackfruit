@@ -113,13 +113,12 @@ dmesg | tail \-5
 ---
 
 ## 3\. Demo Screenshots
+<img width="1207" height="706" alt="Screenshot 2026-04-21 at 05 01 58" src="https://github.com/user-attachments/assets/b71cd864-ea92-4185-9e03-9da46c639373" />
+<img width="1207" height="706" alt="Screenshot 2026-04-21 at 05 02 27" src="https://github.com/user-attachments/assets/54fa0b40-5ca8-4b79-975b-a53fafebe738" />
+<img width="1207" height="706" alt="Screenshot 2026-04-21 at 05 03 55" src="https://github.com/user-attachments/assets/ee850898-d2ec-4c86-9dea-42c8a948012c" />
+<img width="1207" height="706" alt="Screenshot 2026-04-21 at 05 05 25" src="https://github.com/user-attachments/assets/cb118f1d-ab02-47d2-8c5a-cb6295c5b8fa" />
+<img width="1207" height="706" alt="Screenshot 2026-04-21 at 05 06 44" src="https://github.com/user-attachments/assets/20e09959-af0a-4c81-9a50-7ef1ef64854f" />
 
-![][image1]  
-![][image2]  
-![][image3]
-
-![][image4]  
-![][image5]  
 ---
 
 ## 4\. Engineering Analysis
